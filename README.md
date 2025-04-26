@@ -13,4 +13,14 @@ Mi trabajo no es en TI, por lo que realizar alguna mejora a nivel de sistemas es
 ### Solución
 Presenté la problemática a un integrante de Soporte que me permitió instalar Python y un VsCode para poder hacer pruebas.
 Al no tener acceso a la base de datos de la empresa, la solución a la que se llegó fue a manipular el cursor del mouse para poder llegar a la página de donde poder descargar el archivo.
-Esta slución no es la más eficiente, pero en un principio soluciona la problemática. 
+Esta slución no es la más eficiente, pero en un principio soluciona la problemática.
+
+## 2. Consumos_epp
+### Función del script
+Crea un dataset a partir de un archivo Excel y entrega un reporte de los artículos más utilizados
+
+### Problemática
+La compra de elementos de protección personal es mucho y al comprarse un elemento por tallas, por ejemplo, esta se compra por intuición, sin considerar realmente que talla se entregó más y a qué área.
+
+### Solución
+El modelo nos debería mostrar qué producto se entrag más, qué talla, qué configuración, a qué área, etc. Todo esto dentro de un rango de fecha.
